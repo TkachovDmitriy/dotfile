@@ -1,0 +1,27 @@
+[ 23:05:39 | command ] git rev-parse --git-dir
+[ 23:05:39 | command ] git blame --incremental -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+[ 23:05:39 | info ] Blamed "/home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx": 13 commits
+[ 23:05:55 | command ] git rev-parse --git-dir
+[ 23:05:55 | command ] git blame --incremental -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+[ 23:05:55 | info ] Blamed "/home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx": 13 commits
+[ 23:05:57 | command ] git rev-parse --git-dir
+[ 23:05:57 | command ] git blame --incremental -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+[ 23:05:57 | info ] Blamed "/home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx": 13 commits
+[ 23:05:59 | command ] git rev-parse --git-dir
+[ 23:05:59 | command ] git blame --incremental -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+[ 23:05:59 | info ] Blamed "/home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx": 13 commits
+[ 23:06:48 | command ] git rev-parse --git-dir
+[ 23:06:48 | command ] git blame --incremental -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+[ 23:06:48 | info ] Blamed "/home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx": 13 commits
+[ 23:07:17 | command ] git rev-parse --git-dir
+[ 23:07:17 | command ] git blame --incremental -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+[ 23:07:17 | info ] Blamed "/home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx": 13 commits
+[ 23:09:31 | command ] git rev-parse --git-dir
+[ 23:09:31 | command ] git blame --incremental -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+[ 23:09:31 | info ] Blamed "/home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx": 13 commits
+[ 23:12:01 | command ] git rev-parse --git-dir
+[ 23:12:01 | command ] git blame --incremental -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+[ 23:12:01 | info ] Blamed "/home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx": 13 commits
+[ 23:17:32 | command ] git rev-parse --git-dir
+[ 23:17:32 | command ] git blame --incremental -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+[ 23:17:32 | info ] Blamed "/home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx": 12 commits

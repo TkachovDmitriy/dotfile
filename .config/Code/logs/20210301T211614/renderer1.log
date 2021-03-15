@@ -1,0 +1,1 @@
+[2021-03-01 21:16:18.126] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tiny_dev/projects/codica-gatsby-strapi/.vscode'

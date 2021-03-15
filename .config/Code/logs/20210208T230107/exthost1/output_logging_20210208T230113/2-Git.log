@@ -1,0 +1,30 @@
+Looking for git in: git
+Using git 2.30.0 from git
+> git rev-parse --git-dir
+Open repository: /home/tiny_dev/projects/emprise-group/frontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :.env
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git cat-file -s 0d799a1ea8ef9e32961dd7ac1927cace2caad506
+> git show --textconv :.env.example
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/.env.example
+> git cat-file -s ffc3d9b065695d774adf874db4ae2d6bb40666d9
+> git show --textconv :.env
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git cat-file -s 0d799a1ea8ef9e32961dd7ac1927cace2caad506
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

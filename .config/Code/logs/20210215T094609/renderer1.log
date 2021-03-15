@@ -1,0 +1,1 @@
+[2021-02-15 09:46:11.768] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tiny_dev/projects/emprise-group/frontend/.vscode'

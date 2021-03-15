@@ -1,0 +1,5 @@
+[2021-02-05 11:42:40.278] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tiny_dev/projects/emprise-group/frontend/.vscode'
+[2021-02-05 11:45:57.985] [renderer1] [error] ["downloading: XHR failed","    at U.downloadInstallableExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:635:226)","    at async U.doInstallFromGallery (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:632:594)"]
+[2021-02-05 11:45:58.024] [renderer1] [error] XHR failed: downloading: XHR failed
+    at U.downloadInstallableExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:635:226)
+    at async U.doInstallFromGallery (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:632:594)

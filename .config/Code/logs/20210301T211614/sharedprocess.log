@@ -1,0 +1,32 @@
+[2021-03-01 21:16:19.359] [sharedprocess] [info] main {"machineId":"049b80921fdcc28712588438480e7a6f93cc19415664439b3baa8e524e4764d3","windowId":3}
+[2021-03-01 21:16:59.402] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-03-01 22:19:03.467] [sharedprocess] [info] Installing extension: graphql.vscode-graphql
+[2021-03-01 22:19:19.422] [sharedprocess] [info] Downloaded extension: graphql.vscode-graphql undefined
+[2021-03-01 22:19:30.382] [sharedprocess] [info] Extracted extension to /home/tiny_dev/.vscode/extensions/.graphql.vscode-graphql-0.3.15: graphql.vscode-graphql
+[2021-03-01 22:19:30.382] [sharedprocess] [info] Renamed to /home/tiny_dev/.vscode/extensions/graphql.vscode-graphql-0.3.15
+[2021-03-01 22:19:30.384] [sharedprocess] [info] Installation completed. graphql.vscode-graphql
+[2021-03-01 22:19:30.407] [sharedprocess] [info] Extensions installed successfully: graphql.vscode-graphql
+[2021-03-01 23:04:52.068] [sharedprocess] [info] Installing extension: dsznajder.es7-react-js-snippets
+[2021-03-01 23:04:53.251] [sharedprocess] [info] Downloaded extension: dsznajder.es7-react-js-snippets undefined
+[2021-03-01 23:04:53.303] [sharedprocess] [info] Extracted extension to /home/tiny_dev/.vscode/extensions/.dsznajder.es7-react-js-snippets-3.1.0: dsznajder.es7-react-js-snippets
+[2021-03-01 23:04:53.303] [sharedprocess] [info] Renamed to /home/tiny_dev/.vscode/extensions/dsznajder.es7-react-js-snippets-3.1.0
+[2021-03-01 23:04:53.304] [sharedprocess] [info] Installation completed. dsznajder.es7-react-js-snippets
+[2021-03-01 23:04:53.315] [sharedprocess] [info] Extensions installed successfully: dsznajder.es7-react-js-snippets
+[2021-03-01 23:05:08.611] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2021-03-01 23:05:10.664] [sharedprocess] [info] Downloaded extension: eamodio.gitlens undefined
+[2021-03-01 23:05:11.359] [sharedprocess] [info] Extracted extension to /home/tiny_dev/.vscode/extensions/.eamodio.gitlens-11.2.1: eamodio.gitlens
+[2021-03-01 23:05:11.359] [sharedprocess] [info] Renamed to /home/tiny_dev/.vscode/extensions/eamodio.gitlens-11.2.1
+[2021-03-01 23:05:11.390] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2021-03-01 23:05:11.474] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2021-03-01 23:05:14.163] [sharedprocess] [info] Installing extension: waderyan.gitblame
+[2021-03-01 23:05:14.566] [sharedprocess] [info] Downloaded extension: waderyan.gitblame undefined
+[2021-03-01 23:05:14.589] [sharedprocess] [info] Extracted extension to /home/tiny_dev/.vscode/extensions/.waderyan.gitblame-6.0.2: waderyan.gitblame
+[2021-03-01 23:05:14.589] [sharedprocess] [info] Renamed to /home/tiny_dev/.vscode/extensions/waderyan.gitblame-6.0.2
+[2021-03-01 23:05:14.590] [sharedprocess] [info] Installation completed. waderyan.gitblame
+[2021-03-01 23:05:14.670] [sharedprocess] [info] Extensions installed successfully: waderyan.gitblame
+[2021-03-01 23:05:19.898] [sharedprocess] [info] Installing extension: donjayamanne.githistory
+[2021-03-01 23:05:20.797] [sharedprocess] [info] Downloaded extension: donjayamanne.githistory undefined
+[2021-03-01 23:05:20.924] [sharedprocess] [info] Extracted extension to /home/tiny_dev/.vscode/extensions/.donjayamanne.githistory-0.6.14: donjayamanne.githistory
+[2021-03-01 23:05:20.924] [sharedprocess] [info] Renamed to /home/tiny_dev/.vscode/extensions/donjayamanne.githistory-0.6.14
+[2021-03-01 23:05:20.925] [sharedprocess] [info] Installation completed. donjayamanne.githistory
+[2021-03-01 23:05:20.937] [sharedprocess] [info] Extensions installed successfully: donjayamanne.githistory

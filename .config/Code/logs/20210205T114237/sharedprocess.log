@@ -1,0 +1,13 @@
+[2021-02-05 11:42:41.812] [sharedprocess] [info] main {"machineId":"049b80921fdcc28712588438480e7a6f93cc19415664439b3baa8e524e4764d3","windowId":2}
+[2021-02-05 11:42:42.271] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tiny_dev/.config/Code/User/snippets'
+[2021-02-05 11:43:21.952] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-05 11:45:16.357] [sharedprocess] [error] Error: XHR failed
+    at XMLHttpRequest.s.onerror (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:207:704)
+[2021-02-05 11:45:46.422] [sharedprocess] [info] Installing extension: tabnine.tabnine-vscode
+[2021-02-05 11:45:57.957] [sharedprocess] [error] Failed to install extension: tabnine.tabnine-vscode XHR failed
+[2021-02-05 11:46:31.103] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-02-05 11:46:32.011] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme undefined
+[2021-02-05 11:46:33.299] [sharedprocess] [info] Extracted extension to /home/tiny_dev/.vscode/extensions/.pkief.material-icon-theme-4.5.0: pkief.material-icon-theme
+[2021-02-05 11:46:33.299] [sharedprocess] [info] Renamed to /home/tiny_dev/.vscode/extensions/pkief.material-icon-theme-4.5.0
+[2021-02-05 11:46:33.303] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2021-02-05 11:46:33.312] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme

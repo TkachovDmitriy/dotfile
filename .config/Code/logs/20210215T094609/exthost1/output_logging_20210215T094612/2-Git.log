@@ -1,0 +1,200 @@
+Looking for git in: git
+Using git 2.30.0 from git
+> git rev-parse --git-dir
+Open repository: /home/tiny_dev/projects/emprise-group/frontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :.env
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git cat-file -s 0d799a1ea8ef9e32961dd7ac1927cace2caad506
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:.env
+> git ls-tree -l HEAD -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git ls-tree -l HEAD -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git status -z -u
+> git ls-tree -l HEAD -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git show --textconv HEAD:.env
+> git symbolic-ref --short HEAD
+> git show --textconv HEAD:.env
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git status -z -u
+> git ls-tree -l HEAD -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git show --textconv HEAD:.env
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git show --textconv HEAD:.env
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 0356f236e80e8cd52ad761a833be4a8bde32187d.. -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n12 -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git show --textconv :.env
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git cat-file -s 2aac17fc19a6892deed61d8430c54f26eef71c2b
+> git show --textconv :src/components/sections/SavedItemsSection.tsx
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/src/components/sections/SavedItemsSection.tsx
+> git cat-file -s 23e399995e6d4633bf15be44a92f528f0e7e5cc0
+> git check-ignore -v -z --stdin
+> git show --textconv :src/state/modules/dashboard/dashboard.selectors.ts
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/src/state/modules/dashboard/dashboard.selectors.ts
+> git cat-file -s 8b97ae85c587d783e9aa58733b811ff524f18db6
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/sections/SavedItemsSection.tsx
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/src/components/sections/SavedItemsSection.tsx
+> git cat-file -s 23e399995e6d4633bf15be44a92f528f0e7e5cc0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.env.example
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/.env.example
+> git cat-file -s ffc3d9b065695d774adf874db4ae2d6bb40666d9
+> git show --textconv :.env
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/.env
+> git cat-file -s 2aac17fc19a6892deed61d8430c54f26eef71c2b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/sections/SavedItemsSection.tsx
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/src/components/sections/SavedItemsSection.tsx
+> git cat-file -s 23e399995e6d4633bf15be44a92f528f0e7e5cc0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/state/modules/dashboard/dashboard.selectors.ts
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/src/state/modules/dashboard/dashboard.selectors.ts
+> git cat-file -s 8b97ae85c587d783e9aa58733b811ff524f18db6
+> git show --textconv :src/components/sections/SavedItemsSection.tsx
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/src/components/sections/SavedItemsSection.tsx
+> git cat-file -s 23e399995e6d4633bf15be44a92f528f0e7e5cc0
+> git show --textconv :src/state/modules/dashboard/dashboard.selectors.ts
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/src/state/modules/dashboard/dashboard.selectors.ts
+> git cat-file -s 8b97ae85c587d783e9aa58733b811ff524f18db6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

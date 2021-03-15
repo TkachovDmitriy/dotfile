@@ -1,0 +1,309 @@
+Looking for git in: git
+Using git 2.30.0 from git
+> git rev-parse --git-dir
+Open repository: /home/tiny_dev/projects/codica-gatsby-strapi
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :gatsby/src/pages/index.js
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/pages/index.js
+> git cat-file -s 9d41ba994131d73d1cf2cea0ad74d1d4e837ff7e
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageLazyLoad.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageLazyLoad.jsx
+> git cat-file -s c0d107156b75e4f31f6c125b040d2d76a8c6244c
+> git show --textconv :gatsby/src/components/pages/homepage/FeaturedLogoItem.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/FeaturedLogoItem.jsx
+> git cat-file -s f82e651f056632454152295be08a486b0c55ff88
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageAchievementSection.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageAchievementSection.jsx
+> git cat-file -s c7e086d9e48a4253f9209e084c0dfa289534ed22
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageCallToAction.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageCallToAction.jsx
+> git cat-file -s 4d664daf960573dd464e35f3d8f3fba048845d10
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageCustomerSection.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageCustomerSection.jsx
+> git cat-file -s a12589875552d49f22f38e9ee6ce1e1c855dc3c2
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageDiscoverWorks.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageDiscoverWorks.jsx
+> git cat-file -s 9591abbb7e82bacce3f030cf67f3affb04d06014
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageDiscoverWorksItem.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageDiscoverWorksItem.jsx
+> git cat-file -s 86becc5ede60fdbb660a1f45fd6e4963cab602da
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageExpertise.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageExpertise.jsx
+> git cat-file -s 1216610dcb27e1786a1a2067617f8270ec7113fb
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageFeaturedSection.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageFeaturedSection.jsx
+> git cat-file -s 499333d3b5a32595401b7bf3252d4418110bca8b
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageItemCardIcon.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageItemCardIcon.jsx
+> git cat-file -s f57c18e607207487c24452635d6e0d181b4b5dbd
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageLazyLoad.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageLazyLoad.jsx
+> git cat-file -s c0d107156b75e4f31f6c125b040d2d76a8c6244c
+> git show --textconv :gatsby/src/components/pages/homepage/HomepagePrimeSection.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepagePrimeSection.jsx
+> git cat-file -s d54eda3dc56560d01610382d90bec1fa459ab0a5
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageSpecificationSection.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageSpecificationSection.jsx
+> git cat-file -s 180fa78e13e104df5c94da9f31802e6c877ab198
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageTeamSection.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageTeamSection.jsx
+> git cat-file -s 6a6766e6915cc31bf135b1a103f779a70a978f4c
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageTestimonial.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageTestimonial.jsx
+> git cat-file -s 0e4835b18bc35b9b098d337df322e69485c99690
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :cms/api/article/models/Article.js
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/cms/api/article/models/Article.js
+> git cat-file -s 739dc47c11c5e97426e0d145f7d12fbb875c7d26
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :cms/api/article/controllers/Article.js
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/cms/api/article/controllers/Article.js
+> git cat-file -s ab9590d74939f98fafa46675837ba248fa0914b9
+> git check-ignore -v -z --stdin
+> git show --textconv :cms/api/article/services/Article.js
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/cms/api/article/services/Article.js
+> git cat-file -s 7bcb0f42cb950b15832e965d6496de4bf7c81f2d
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :cms/exports/graphql/schema.graphql
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/cms/exports/graphql/schema.graphql
+> git cat-file -s ebc215e390e5fb5a2e8c04000c6ad1e9a2f71b00
+> git show --textconv :cms/exports/graphql/schema.graphql
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/cms/exports/graphql/schema.graphql
+> git cat-file -s ebc215e390e5fb5a2e8c04000c6ad1e9a2f71b00
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :cms/api/service/services/Service.js
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/cms/api/service/services/Service.js
+> git cat-file -s 7bcb0f42cb950b15832e965d6496de4bf7c81f2d
+> git check-ignore -v -z --stdin
+> git show --textconv :cms/api/service/models/Service.js
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/cms/api/service/models/Service.js
+> git cat-file -s e512aea37815b627cc2de7504c096ba296845966
+> git show --textconv :cms/api/service/models/Service.settings.json
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/cms/api/service/models/Service.settings.json
+> git cat-file -s 6e6c1aabe35800e3a60173b2e27d102bdfde1492
+> git show --textconv :cms/api/article/config/routes.json
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/cms/api/article/config/routes.json
+> git cat-file -s a6bb54486daf3567485657fb3b1d5418edeb6c78
+> git check-ignore -v -z --stdin
+> git show --textconv :cms/package.json
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/cms/package.json
+> git cat-file -s 25c13b91c368edcf74064f790ffe32f0b8bb6035
+> git status -z -u
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/cms/package.json
+> git symbolic-ref --short HEAD
+> git cat-file -s 25c13b91c368edcf74064f790ffe32f0b8bb6035
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git show --textconv :cms/package.json
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :gatsby/src/pages/blog.js
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/pages/blog.js
+> git cat-file -s e7e55654d22a55e6c52e98badf6fe4bc5683e341
+> git check-ignore -v -z --stdin
+> git show --textconv :gatsby/src/components/RatingArticle/RatingArticle.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RatingArticle/RatingArticle.jsx
+> git cat-file -s b18e47e24bc05c7bf3769acda4b3e8531947a65d
+> git check-ignore -v -z --stdin
+> git show --textconv :gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+> git cat-file -s d70d23c41ecafc8099b5394a31ad8a9824e55c4e
+> git show --textconv :gatsby/src/pages/contacts/thank-you-custom-marketplace-development-guide/index.js
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/pages/contacts/thank-you-custom-marketplace-development-guide/index.js
+> git cat-file -s 9f7121a5cd5ac226873e21b9e2731c46382f45a8
+> git show --textconv :gatsby/src/pages/careers/index.js
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/pages/careers/index.js
+> git cat-file -s 5d79f194be60127e8d534e23173a631c38e8bf91
+> git show --textconv :gatsby/src/components/pages/homepage/HomepageLazyLoad.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/pages/homepage/HomepageLazyLoad.jsx
+> git cat-file -s c0d107156b75e4f31f6c125b040d2d76a8c6244c
+> git show --textconv :gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+> git cat-file -s d70d23c41ecafc8099b5394a31ad8a9824e55c4e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git show --textconv :gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+> git ls-files --stage -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+> git cat-file -s d70d23c41ecafc8099b5394a31ad8a9824e55c4e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git show --textconv HEAD:gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+> git ls-tree -l HEAD -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/tiny_dev/projects/codica-gatsby-strapi/gatsby/src/components/RecentBlogArticleSection/RecentBlogArticleSection.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git rev-list --left-right develop...refs/remotes/origin/develop
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tiny_dev/projects/codica-gatsby-strapi/.git/refs/remotes/origin/develop', is most likely packed.
+> git config --get commit.template

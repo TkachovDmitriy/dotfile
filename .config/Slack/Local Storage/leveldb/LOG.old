@@ -1,0 +1,27 @@
+2021/02/20-01:09:09.654 27574 Reusing MANIFEST /home/tiny_dev/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/02/20-01:09:09.654 27574 Recovering log #4
+2021/02/20-01:09:09.659 27574 Reusing old log /home/tiny_dev/.config/Slack/Local Storage/leveldb/000004.log 
+2021/02/20-02:32:12.259 27578 Level-0 table #8: started
+2021/02/20-02:32:12.265 27578 Level-0 table #8: 15021 bytes OK
+2021/02/20-02:32:12.268 27578 Delete type=0 #4
+2021/02/20-15:29:48.606 3424b Level-0 table #10: started
+2021/02/20-15:29:48.611 3424b Level-0 table #10: 7548 bytes OK
+2021/02/20-15:29:48.615 3424b Delete type=0 #7
+2021/02/21-00:04:46.572 27578 Level-0 table #12: started
+2021/02/21-00:04:46.581 27578 Level-0 table #12: 7551 bytes OK
+2021/02/21-00:04:46.587 27578 Delete type=0 #9
+2021/02/21-17:15:10.495 fcd5c Level-0 table #14: started
+2021/02/21-17:15:10.502 fcd5c Level-0 table #14: 7564 bytes OK
+2021/02/21-17:15:10.507 fcd5c Delete type=0 #11
+2021/02/22-23:56:56.351 17e489 Level-0 table #16: started
+2021/02/22-23:56:56.356 17e489 Level-0 table #16: 7843 bytes OK
+2021/02/22-23:56:56.359 17e489 Delete type=0 #13
+2021/02/22-23:56:56.360 fcd5c Compacting 4@0 + 1@1 files
+2021/02/22-23:56:56.364 fcd5c Generated table #17@0: 7 keys, 3389 bytes
+2021/02/22-23:56:56.364 fcd5c Compacted 4@0 + 1@1 files => 3389 bytes
+2021/02/22-23:56:56.367 fcd5c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/22-23:56:56.367 fcd5c Delete type=2 #14
+2021/02/22-23:56:56.367 fcd5c Delete type=2 #16
+2021/02/22-23:56:56.367 fcd5c Delete type=2 #12
+2021/02/22-23:56:56.367 fcd5c Delete type=2 #10
+2021/02/22-23:56:56.367 fcd5c Delete type=2 #8

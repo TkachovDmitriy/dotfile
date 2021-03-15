@@ -1,0 +1,21 @@
+Looking for git in: git
+Using git 2.30.0 from git
+> git rev-parse --git-dir
+Open repository: /home/tiny_dev/projects/emprise-group/frontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fix/save-btn-on-dashboard
+> git rev-parse --symbolic-full-name fix/save-btn-on-dashboard@{u}
+> git rev-list --left-right fix/save-btn-on-dashboard...refs/remotes/origin/fix/save-btn-on-dashboard
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/state/modules/dashboard/dashboard.selectors.ts
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/src/state/modules/dashboard/dashboard.selectors.ts
+> git cat-file -s 8b97ae85c587d783e9aa58733b811ff524f18db6
+> git check-ignore -v -z --stdin
+> git show --textconv :src/state/modules/dashboard/dashboard.selectors.ts
+> git ls-files --stage -- /home/tiny_dev/projects/emprise-group/frontend/src/state/modules/dashboard/dashboard.selectors.ts
+> git cat-file -s 8b97ae85c587d783e9aa58733b811ff524f18db6
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

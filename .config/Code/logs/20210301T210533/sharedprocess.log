@@ -1,0 +1,14 @@
+[2021-03-01 21:05:37.603] [sharedprocess] [info] main {"machineId":"049b80921fdcc28712588438480e7a6f93cc19415664439b3baa8e524e4764d3","windowId":2}
+[2021-03-01 21:06:17.628] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-03-01 21:09:35.832] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-03-01 21:09:36.249] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-03-01 21:09:38.708] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers undefined
+[2021-03-01 21:09:38.968] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker undefined
+[2021-03-01 21:09:39.569] [sharedprocess] [info] Extracted extension to /home/tiny_dev/.vscode/extensions/.ms-azuretools.vscode-docker-1.10.0: ms-azuretools.vscode-docker
+[2021-03-01 21:09:39.571] [sharedprocess] [info] Renamed to /home/tiny_dev/.vscode/extensions/ms-azuretools.vscode-docker-1.10.0
+[2021-03-01 21:09:39.579] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2021-03-01 21:09:39.706] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2021-03-01 21:09:40.169] [sharedprocess] [info] Extracted extension to /home/tiny_dev/.vscode/extensions/.ms-vscode-remote.remote-containers-0.155.1: ms-vscode-remote.remote-containers
+[2021-03-01 21:09:40.169] [sharedprocess] [info] Renamed to /home/tiny_dev/.vscode/extensions/ms-vscode-remote.remote-containers-0.155.1
+[2021-03-01 21:09:40.174] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-containers
+[2021-03-01 21:09:40.186] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-containers
